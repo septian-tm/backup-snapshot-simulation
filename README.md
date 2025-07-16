@@ -16,4 +16,5 @@ Simulasi sistem backup otomatis menggunakan `rsnapshot` di Linux. Menggunakan `c
 4. Jalankan backup manual: `bash scripts/backup-now.sh`
 
 ## Author
-Septian Tri Mahendra – 2211501453
+Septian Tri Mahendra
+
